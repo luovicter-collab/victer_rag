@@ -66,7 +66,9 @@ class TitleItem:
 
 
 # 从非 title 块（如 paragraph）开头识别的区域标记：seq（1-based）, role
-SectionMarker = Tuple[int, str]  # role: "ref" | "toc" | "tail" | "body_start" | "abstract"
+SectionMarker = Tuple[
+    int, str
+]  # role: "ref" | "toc" | "tail" | "body_start" | "abstract"
 
 
 @dataclass
@@ -133,7 +135,10 @@ _REF_NORMALIZED_EN = (
 # 目录标题：正文起始必须在其后（英文不用 "content" 单用，避免 "Content available at" 等误判）
 _TOC_NORMALIZED_ZH = ("目录", "目次")
 _TOC_NORMALIZED_EN = ("contents", "table of contents")
-_TOC_NORMALIZED_EN_STRICT = ("contents", "table of contents")  # 块开头识别时用，不含 content
+_TOC_NORMALIZED_EN_STRICT = (
+    "contents",
+    "table of contents",
+)  # 块开头识别时用，不含 content
 
 # 附录/致谢等：也可作为正文结束（若未找到参考文献）
 _TAIL_START_ZH = ("附录", "致谢", "致 谢", "鸣谢")
@@ -200,7 +205,11 @@ class JsonTitleExtractor:
                 return True
         t_en = JsonTitleExtractor._normalize_en(text)
         for p in _REF_NORMALIZED_EN:
-            if t_en == p or (len(t_en) <= len(p) + 2 and p in t_en) or t_en.startswith(p):
+            if (
+                t_en == p
+                or (len(t_en) <= len(p) + 2 and p in t_en)
+                or t_en.startswith(p)
+            ):
                 return True
         return False
 
@@ -323,11 +332,18 @@ class JsonTitleExtractor:
         if not text or not text.strip():
             return False
         t = text.strip()
-        if "…" in t or "..." in t or re.search(r"[：:]\s*$", t) or re.search(r"\d\s*$", t):
+        if (
+            "…" in t
+            or "..." in t
+            or re.search(r"[：:]\s*$", t)
+            or re.search(r"\d\s*$", t)
+        ):
             return False
         if "绪论" in t and ("：" in t or ":" in t) and len(t) < 20:
             return False
-        if JsonTitleExtractor._is_front_matter_title(t) or JsonTitleExtractor._is_toc_title(t):
+        if JsonTitleExtractor._is_front_matter_title(
+            t
+        ) or JsonTitleExtractor._is_toc_title(t):
             return False
         if JsonTitleExtractor._is_references_title(t):
             return False
@@ -340,7 +356,11 @@ class JsonTitleExtractor:
         t_zh = JsonTitleExtractor._normalize_zh(t)
         if t_zh == "1绪论" or (len(t_zh) >= 2 and t_zh[0] == "1" and "绪论" in t_zh):
             return True
-        if t_zh.startswith("1") and ("引言" in t_zh or "概述" in t_zh) and len(t_zh) < 15:
+        if (
+            t_zh.startswith("1")
+            and ("引言" in t_zh or "概述" in t_zh)
+            and len(t_zh) < 15
+        ):
             return True
         return False
 
@@ -360,9 +380,7 @@ class JsonTitleExtractor:
         - 单边括号：无配对时返回 None，走 fallback。
         """
         start_events = [
-            (t.seq, "start")
-            for t in titles
-            if self._is_major_body_start(t.text)
+            (t.seq, "start") for t in titles if self._is_major_body_start(t.text)
         ]
         # 正文止于「参考文献」前一块，只用 ref 作为 end，不用 tail（致谢/附录在 References 之后）
         end_events = [(s, "end") for s in ref_seqs]

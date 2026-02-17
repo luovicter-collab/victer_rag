@@ -144,3 +144,12 @@ Agent_gragh_rag/
 - 环境变量与密钥：见 `src/config/settings.py`（OSS、MinerU API、OpenAI/LLM、向量库路径等），建议使用 `.env` 配置。
 
 以上为仓库内主要文档与代码的逐文件说明，便于维护与二次开发。
+
+# 1. 把所有改动添加到暂存区
+git add .
+
+# 2. 提交，写清楚这次改了啥
+git commit -m "简短说明：比如 '添加了新的数据处理功能' 或 '修复了 xxx bug'"
+
+# 3. 推送到 GitHub
+git push
