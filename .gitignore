@@ -1,0 +1,48 @@
+# 不提交到 GitHub：模型与敏感配置
+model/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+.venv/
+ENV/
+env/
+
+# IDE（保留 .vscode 可提交，便于团队共用调试配置）
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 数据与运行时产出（路径过长且多为生成文件，不推送到 GitHub）
+files/file_store/
+files/vector_store/
+files/relation_store/
