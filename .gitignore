@@ -42,7 +42,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# 数据与运行时产出（路径过长且多为生成文件，不推送到 GitHub）
-files/file_store/
-files/vector_store/
-files/relation_store/
+# 数据与运行时产出（可按需取消注释）
+# files/file_store/
+# files/vector_store/
+# files/relation_store/

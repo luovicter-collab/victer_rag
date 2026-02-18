@@ -1,0 +1,6317 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.023,
+                0.291,
+                0.061,
+                0.707
+            ],
+            "angle": 270,
+            "content": "arXiv:2510.15253v1 [cs.CL] 17 Oct 2025"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.128,
+                0.08,
+                0.87,
+                0.12
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                211,
+                187,
+                1438,
+                187,
+                1438,
+                280,
+                211,
+                280
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.135,
+                0.125,
+                0.862,
+                0.162
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                223,
+                292,
+                1425,
+                292,
+                1425,
+                378,
+                223,
+                378
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.249,
+                0.175,
+                0.748,
+                0.21
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                411,
+                409,
+                1237,
+                409,
+                1237,
+                491,
+                411,
+                491
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.217,
+                0.212,
+                0.782,
+                0.226
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                358,
+                495,
+                1293,
+                495,
+                1293,
+                528,
+                358,
+                528
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.247,
+                0.228,
+                0.75,
+                0.242
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                408,
+                533,
+                1240,
+                533,
+                1240,
+                566,
+                408,
+                566
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.261,
+                0.262,
+                0.341,
+                0.276
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                431,
+                612,
+                564,
+                612,
+                564,
+                645,
+                431,
+                645
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.289,
+                0.461,
+                0.659
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                234,
+                675,
+                762,
+                675,
+                762,
+                1541,
+                234,
+                1541
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.671,
+                0.26,
+                0.687
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                190,
+                1569,
+                430,
+                1569,
+                430,
+                1606,
+                190,
+                1606
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.697,
+                0.49,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1630,
+                810,
+                1630,
+                810,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.533,
+                0.264,
+                0.859,
+                0.655
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.508,
+                0.659,
+                0.886,
+                0.731
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1541,
+                1465,
+                1541,
+                1465,
+                1709,
+                840,
+                1709
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.744,
+                0.885,
+                0.856
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1740,
+                1463,
+                1740,
+                1463,
+                2002,
+                840,
+                2002
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.858,
+                0.885,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                2006,
+                1463,
+                2006,
+                1463,
+                2156,
+                840,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.943,
+                0.504,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2205,
+                833,
+                2205,
+                833,
+                2233,
+                817,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.085,
+                0.49,
+                0.598
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                198,
+                810,
+                198,
+                810,
+                1398,
+                193,
+                1398
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.601,
+                0.49,
+                0.921
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1405,
+                810,
+                1405,
+                810,
+                2154,
+                193,
+                2154
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.513,
+                0.085,
+                0.885,
+                0.244
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                198,
+                1463,
+                198,
+                1463,
+                570,
+                848,
+                570
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.247,
+                0.886,
+                0.827
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                577,
+                1465,
+                577,
+                1465,
+                1934,
+                843,
+                1934
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.513,
+                0.845,
+                0.647,
+                0.86
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                1976,
+                1070,
+                1976,
+                1070,
+                2011,
+                848,
+                2011
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.513,
+                0.875,
+                0.884,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                2046,
+                1462,
+                2046,
+                1462,
+                2151,
+                848,
+                2151
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.944,
+                0.505,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2208,
+                835,
+                2208,
+                835,
+                2233,
+                817,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.085,
+                0.49,
+                0.293
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                198,
+                810,
+                198,
+                810,
+                685,
+                186,
+                685
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.295,
+                0.49,
+                0.412
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                690,
+                810,
+                690,
+                810,
+                963,
+                186,
+                963
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.418,
+                0.49,
+                0.498
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                977,
+                810,
+                977,
+                810,
+                1164,
+                186,
+                1164
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.135,
+                0.509,
+                0.488,
+                0.527
+            ],
+            "angle": 0,
+            "content": "\\[\nX _ {\\mathrm {i m g}} = \\left\\{d _ {i} \\in D \\mid s _ {\\mathrm {i m g}} \\left(e _ {q}, z _ {i}\\right) \\geq \\tau_ {\\mathrm {i m g}} \\right\\}. \\tag {1}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.536,
+                0.487,
+                0.567
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1253,
+                805,
+                1253,
+                805,
+                1326,
+                186,
+                1326
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.568,
+                0.49,
+                0.664
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1328,
+                810,
+                1328,
+                810,
+                1553,
+                188,
+                1553
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.116,
+                0.675,
+                0.41,
+                0.712
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} s _ {\\text {c o n f}} \\left(e _ {q}, z _ {i}\\right) = \\lambda_ {i} s _ {\\text {i m g}} \\left(e _ {q}, z _ {i}\\right) \\\\ + \\left(1 - \\lambda_ {i}\\right) s _ {\\text {t e x t}} \\left(e _ {q}, z _ {i}\\right), \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.164,
+                0.714,
+                0.487,
+                0.744
+            ],
+            "angle": 0,
+            "content": "\\[\nX _ {\\text {c o n f}} = \\left\\{d _ {i} \\in D \\mid s _ {\\text {c o n f}} \\left(e _ {q}, z _ {i}\\right) \\geq \\tau_ {\\text {c o n f}} \\right\\}. \\tag {2}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.745,
+                0.49,
+                0.858
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1742,
+                810,
+                1742,
+                810,
+                2006,
+                186,
+                2006
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.134,
+                0.868,
+                0.488,
+                0.924
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} X _ {\\mathrm {i m g}} = \\left\\{d _ {i} \\in D \\mid s _ {\\mathrm {i m g}} (e _ {q}, z _ {i}) \\geq \\tau_ {\\mathrm {i m g}} \\right\\}, \\\\ X _ {\\text {t e x t}} = \\left\\{d _ {i} \\in D \\mid s _ {\\text {t e x t}} \\left(e _ {q}, z _ {i}\\right) \\geq \\tau_ {\\text {t e x t}} \\right\\}, \\tag {3} \\\\ X _ {\\cup} = X _ {\\mathrm {i m g}} \\cup X _ {\\mathrm {t e x t}}. \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.523,
+                0.085,
+                0.868,
+                0.207
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.523,
+                0.21,
+                0.868,
+                0.333
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.508,
+                0.346,
+                0.885,
+                0.446
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                809,
+                1463,
+                809,
+                1463,
+                1043,
+                840,
+                1043
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.466,
+                0.883,
+                0.501
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1089,
+                1460,
+                1089,
+                1460,
+                1171,
+                840,
+                1171
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.512,
+                0.884,
+                0.623
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1197,
+                1462,
+                1197,
+                1462,
+                1457,
+                840,
+                1457
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.643,
+                0.627,
+                0.883,
+                0.644
+            ],
+            "angle": 0,
+            "content": "\\[\nr = \\mathcal {G} (q, X). \\tag {4}\n\\]"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.509,
+                0.669,
+                0.854,
+                0.685
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                1564,
+                1412,
+                1564,
+                1412,
+                1602,
+                841,
+                1602
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.697,
+                0.885,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                838,
+                1630,
+                1463,
+                1630,
+                1463,
+                2156,
+                838,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.943,
+                0.504,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2205,
+                833,
+                2205,
+                833,
+                2231,
+                817,
+                2231
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.118,
+                0.083,
+                0.88,
+                0.442
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Method</td><td>Venue</td><td>LLM/VLM</td><td>Vision Encoder</td><td>Training</td><td>OCR</td><td>Domain</td><td>Modality</td><td>Granularity</td><td>Graph</td><td>Agent</td></tr><tr><td>DSE (2024a)</td><td>EMNLP</td><td>Phi3V</td><td>CLIP-ViT-L/14</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>ColPali (2024)</td><td>ICLR</td><td>PaliGemma-3B</td><td>SigLIP-SO400M</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>ColQwen2 (2024)</td><td>ICLR</td><td>Qwen2-VL-2B</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>CRAEM (2024a)</td><td>ACM MM</td><td>LLaMA2-7B</td><td>Pix2Struct</td><td>✓</td><td>✓</td><td>Closed</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>VisRAG (2024)</td><td>ICLR</td><td>MiniCPM-V2.0</td><td>SigLIP-SO400M</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>SV-RAG (2024b)</td><td>ICLR</td><td>InternVL2-4B</td><td>InternViT-300M</td><td>✓</td><td>✘</td><td>Closed</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>M3DocRAG (2024a)</td><td>Preprint</td><td>Qwen2-VL-7B</td><td>ViT-BigG</td><td>✘</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>VisDoMRAG (2025)</td><td>NAACL</td><td>Qwen2-VL-2B</td><td>ViT-BigG</td><td>✘</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>GME (2025b)</td><td>CVPR</td><td>Qwen2-VL-7B</td><td>ViT-BigG</td><td>✓</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>ViDoRAG (2025b)</td><td>EMNLP</td><td>Qwen2.5-VL-7B</td><td>ViT-BigG</td><td>✘</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✓</td></tr><tr><td>HM-RAG (2025)</td><td>ACM MM</td><td>Qwen2.5-VL-7B</td><td>ViT-BigG</td><td>✘</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✓</td><td>✓</td></tr><tr><td>VDocRAG (2025)</td><td>CVPR</td><td>Phi3V</td><td>CLIP-ViT-L/14</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>FRAG (2025)</td><td>Preprint</td><td>InternVL2-8B</td><td>InternViT-300M</td><td>✘</td><td>✘</td><td>Closed</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>MG-RAG (2025b)</td><td>Preprint</td><td>Qwen2.5-VL-3B-Instruct</td><td>ViT-BigG</td><td>✘</td><td>✓</td><td>Closed</td><td>Image+Text</td><td>Element</td><td>✘</td><td>✘</td></tr><tr><td>VRAG-RL (2025c)</td><td>Preprint</td><td>Qwen2.5-VL-7B-Instruct</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Element</td><td>✘</td><td>✘</td></tr><tr><td>CoRe-MMRAG (2025)</td><td>ACL</td><td>Qwen2-VL-7B</td><td>ViT-BigG</td><td>✓</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>Light-ColPali (2025)</td><td>ACL</td><td>PaliGemma</td><td>SigLIP-SO400M</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>MM-R5 (2025a)</td><td>Preprint</td><td>Qwen2.5-VL-7B</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>SimpleDoc (2025)</td><td>Preprint</td><td>Qwen2.5-VL-3B-Instruct</td><td>ViT-BigG</td><td>✘</td><td>✘</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>VisChunk (2025)</td><td>Preprint</td><td>Gemini-2.5-Pro</td><td>-</td><td>✘</td><td>✓</td><td>Closed</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>DocVQA-RAP (2025a)</td><td>ICIC</td><td>Qwen2-VL-2B</td><td>ViT-BigG</td><td>✘</td><td>✘</td><td>Open</td><td>Image</td><td>Element</td><td>✘</td><td>✘</td></tr><tr><td>RL-QR (2025)</td><td>Preprint</td><td>Qwen2.5-VL-3B-Instruct</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>MMRAG-DocQA (2025)</td><td>Preprint</td><td>Qwen-VL-Plus</td><td>ViT-BigG</td><td>✘</td><td>✓</td><td>Closed</td><td>Image+Text</td><td>Element</td><td>✘</td><td>✘</td></tr><tr><td>Patho-AgenticRAG (2025a)</td><td>Preprint</td><td>Qwen2-VL-2B</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✓</td></tr><tr><td>M2IO-R1 (2025a)</td><td>Preprint</td><td>BGE-M3</td><td>-</td><td>✓</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>mKG-RAG (2025)</td><td>Preprint</td><td>LLaMA-3.1-8B</td><td>CLIP ViT-L/14</td><td>✓</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Element</td><td>✓</td><td>✘</td></tr><tr><td>DB3Team-RAG (2025)</td><td>Preprint</td><td>Llama 3.2-VL</td><td>CLIP ViT-L/14</td><td>✓</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✓</td><td>✘</td></tr><tr><td>PREMIR (2025)</td><td>EMNLP</td><td>Qwen2.5-VL-72B</td><td>ViT-BigG</td><td>✘</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Element</td><td>✘</td><td>✘</td></tr><tr><td>ReDocRAG (2025)</td><td>ICDAR WML</td><td>Qwen2.5-VL-7B-Instruct</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Closed</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>CMRAG (2025)</td><td>Preprint</td><td>Qwen2.5-VL-7B-Instruct</td><td>ViT-BigG</td><td>✘</td><td>✓</td><td>Open</td><td>Image+Text</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>MoLoRAG (2025)</td><td>EMNLP</td><td>Qwen2.5-VL-7B</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✓</td><td>✘</td></tr><tr><td>SERVAL (2025)</td><td>Preprint</td><td>InternVL3-14B</td><td>InternViT-300M</td><td>✘</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>MetaEmbed (2025b)</td><td>Preprint</td><td>Qwen2.5-VL-32B</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr><tr><td>DocPruner (2025)</td><td>Preprint</td><td>Qwen2.5-VL-3B-Instruct</td><td>ViT-BigG</td><td>✓</td><td>✘</td><td>Open</td><td>Image</td><td>Page</td><td>✘</td><td>✘</td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.113,
+                0.447,
+                0.883,
+                0.492
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1045,
+                1460,
+                1045,
+                1460,
+                1150,
+                186,
+                1150
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.114,
+                0.509,
+                0.364,
+                0.525
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1190,
+                602,
+                1190,
+                602,
+                1227,
+                188,
+                1227
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.533,
+                0.49,
+                0.791
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1246,
+                810,
+                1246,
+                810,
+                1850,
+                186,
+                1850
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.794,
+                0.49,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1857,
+                810,
+                1857,
+                810,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.509,
+                0.885,
+                0.799
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1190,
+                1463,
+                1190,
+                1463,
+                1868,
+                840,
+                1868
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.809,
+                0.887,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1892,
+                1467,
+                1892,
+                1467,
+                2156,
+                840,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.493,
+                0.943,
+                0.506,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                815,
+                2205,
+                836,
+                2205,
+                836,
+                2233,
+                815,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.129,
+                0.085,
+                0.472,
+                0.166
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.129,
+                0.169,
+                0.472,
+                0.272
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.113,
+                0.284,
+                0.49,
+                0.371
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                664,
+                810,
+                664,
+                810,
+                867,
+                186,
+                867
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.387,
+                0.49,
+                0.725
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                905,
+                810,
+                905,
+                810,
+                1695,
+                186,
+                1695
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.114,
+                0.739,
+                0.31,
+                0.755
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1728,
+                512,
+                1728,
+                512,
+                1765,
+                188,
+                1765
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.761,
+                0.491,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1779,
+                812,
+                1779,
+                812,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.085,
+                0.885,
+                0.149
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                198,
+                1463,
+                198,
+                1463,
+                348,
+                840,
+                348
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.15,
+                0.885,
+                0.487
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                350,
+                1463,
+                350,
+                1463,
+                1139,
+                840,
+                1139
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.489,
+                0.885,
+                0.842
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1143,
+                1463,
+                1143,
+                1463,
+                1969,
+                840,
+                1969
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.509,
+                0.853,
+                0.729,
+                0.868
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                1995,
+                1205,
+                1995,
+                1205,
+                2030,
+                841,
+                2030
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.874,
+                0.885,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                2044,
+                1463,
+                2044,
+                1463,
+                2156,
+                840,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.943,
+                0.505,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2205,
+                835,
+                2205,
+                835,
+                2233,
+                817,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.184,
+                0.091,
+                0.411,
+                0.129
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.259,
+                0.135,
+                0.358,
+                0.149
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                428,
+                315,
+                592,
+                315,
+                592,
+                348,
+                428,
+                348
+            ]
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.149,
+                0.158,
+                0.475,
+                0.228
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.251,
+                0.231,
+                0.373,
+                0.244
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                415,
+                540,
+                616,
+                540,
+                616,
+                570,
+                415,
+                570
+            ]
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.114,
+                0.26,
+                0.49,
+                0.346
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                608,
+                810,
+                608,
+                810,
+                809,
+                188,
+                809
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.37,
+                0.49,
+                0.531
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                865,
+                810,
+                865,
+                810,
+                1242,
+                186,
+                1242
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.536,
+                0.49,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1253,
+                810,
+                1253,
+                810,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.085,
+                0.885,
+                0.182
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                198,
+                1463,
+                198,
+                1463,
+                425,
+                840,
+                425
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.509,
+                0.195,
+                0.859,
+                0.225
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                456,
+                1420,
+                456,
+                1420,
+                526,
+                841,
+                526
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.234,
+                0.885,
+                0.426
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                547,
+                1463,
+                547,
+                1463,
+                996,
+                840,
+                996
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.427,
+                0.885,
+                0.862
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                998,
+                1463,
+                998,
+                1463,
+                2016,
+                840,
+                2016
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.874,
+                0.885,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                2044,
+                1463,
+                2044,
+                1463,
+                2156,
+                841,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.943,
+                0.505,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2205,
+                835,
+                2205,
+                835,
+                2231,
+                817,
+                2231
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.129,
+                0.085,
+                0.472,
+                0.193
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.129,
+                0.197,
+                0.476,
+                0.313
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.113,
+                0.326,
+                0.49,
+                0.425
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                762,
+                810,
+                762,
+                810,
+                994,
+                186,
+                994
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.452,
+                0.49,
+                0.61
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1057,
+                810,
+                1057,
+                810,
+                1426,
+                186,
+                1426
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.616,
+                0.49,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1440,
+                810,
+                1440,
+                810,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.513,
+                0.083,
+                0.88,
+                0.326
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Dataset</td><td># Queries</td><td># Documents/Images</td><td>Content</td></tr><tr><td>TabFQuAD (2020)</td><td>210</td><td>210(I)</td><td></td></tr><tr><td>PlotQA (2020)</td><td>28.9M</td><td>224K(I)</td><td></td></tr><tr><td>DocVQA (2021)</td><td>50K</td><td>12,767(I)</td><td></td></tr><tr><td>VisualMRC (2021)</td><td>30,562</td><td>10,197(I)</td><td></td></tr><tr><td>TAT-DQA (2022)</td><td>16,558</td><td>2,758(D)</td><td></td></tr><tr><td>InfoVQA (2022)</td><td>30K</td><td>5.4K(I)</td><td></td></tr><tr><td>ChartQA (2022)</td><td>23.1K</td><td>17.1K(I)</td><td></td></tr><tr><td>ScienceQA (2022)</td><td>21K</td><td>7,803(I)</td><td></td></tr><tr><td>DUDE (2023)</td><td>41,491</td><td>4,974(D)</td><td></td></tr><tr><td>SlideVQA (2023)</td><td>52K</td><td>14.5K(I)</td><td></td></tr><tr><td>ArXivQA (2024a)</td><td>100K</td><td>16.6K(D)</td><td></td></tr><tr><td>MMLongBench-Doc (2024b)</td><td>1,062</td><td>130(D)</td><td></td></tr><tr><td>PaperTab (2024)</td><td>393</td><td>307(D)</td><td></td></tr><tr><td>FetaTab (2024)</td><td>1,023</td><td>878(D)</td><td></td></tr><tr><td>SPIQA (2024)</td><td>27K</td><td>25.5K(D)</td><td></td></tr><tr><td>LongDocUrl (2024)</td><td>2,325</td><td>396(D)</td><td></td></tr><tr><td>ViDoRe (2024)</td><td>3.8K</td><td>8.3K(D)</td><td></td></tr><tr><td>VisR-Bench (2024b)</td><td>471</td><td>226(D)</td><td></td></tr><tr><td>M3DoCVQA (2024a)</td><td>2,441</td><td>3,368(D)</td><td></td></tr><tr><td>VisDoMBench (2025)</td><td>2,271</td><td>1,277(D)</td><td></td></tr><tr><td>ViDoSeek (2025b)</td><td>1,142</td><td>300(D)</td><td></td></tr><tr><td>OpenDocVQA (2025)</td><td>206K</td><td>43K(I)</td><td></td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.508,
+                0.336,
+                0.885,
+                0.478
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                785,
+                1463,
+                785,
+                1463,
+                1118,
+                840,
+                1118
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.497,
+                0.884,
+                0.577
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1162,
+                1462,
+                1162,
+                1462,
+                1349,
+                840,
+                1349
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.509,
+                0.59,
+                0.755,
+                0.605
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                1380,
+                1248,
+                1380,
+                1248,
+                1415,
+                841,
+                1415
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.616,
+                0.885,
+                0.84
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                838,
+                1440,
+                1463,
+                1440,
+                1463,
+                1964,
+                838,
+                1964
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.842,
+                0.884,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1969,
+                1462,
+                1969,
+                1462,
+                2156,
+                840,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.943,
+                0.505,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2205,
+                835,
+                2205,
+                835,
+                2231,
+                817,
+                2231
+            ]
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.086,
+                0.49,
+                0.454
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                201,
+                810,
+                201,
+                810,
+                1061,
+                193,
+                1061
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.458,
+                0.486,
+                0.536
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1071,
+                803,
+                1071,
+                803,
+                1253,
+                193,
+                1253
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.117,
+                0.556,
+                0.248,
+                0.57
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1300,
+                410,
+                1300,
+                410,
+                1333,
+                193,
+                1333
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.585,
+                0.486,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1368,
+                803,
+                1368,
+                803,
+                2151,
+                193,
+                2151
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.514,
+                0.086,
+                0.816,
+                0.099
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                850,
+                201,
+                1349,
+                201,
+                1349,
+                231,
+                850,
+                231
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.513,
+                0.115,
+                0.884,
+                0.581
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                268,
+                1462,
+                268,
+                1462,
+                1358,
+                848,
+                1358
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.514,
+                0.603,
+                0.64,
+                0.616
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                850,
+                1410,
+                1058,
+                1410,
+                1058,
+                1440,
+                850,
+                1440
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.513,
+                0.633,
+                0.884,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                1480,
+                1462,
+                1480,
+                1462,
+                2151,
+                848,
+                2151
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.944,
+                0.504,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                818,
+                2208,
+                833,
+                2208,
+                833,
+                2231,
+                818,
+                2231
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.085,
+                0.221,
+                0.099
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                190,
+                198,
+                365,
+                198,
+                365,
+                231,
+                190,
+                231
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.114,
+                0.49,
+                0.483
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                266,
+                810,
+                266,
+                810,
+                1129,
+                193,
+                1129
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.5,
+                0.267,
+                0.515
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                190,
+                1169,
+                441,
+                1169,
+                441,
+                1204,
+                190,
+                1204
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.529,
+                0.49,
+                0.705
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1237,
+                810,
+                1237,
+                810,
+                1648,
+                186,
+                1648
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.707,
+                0.49,
+                0.772
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1653,
+                810,
+                1653,
+                810,
+                1805,
+                188,
+                1805
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.803,
+                0.215,
+                0.818
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                190,
+                1878,
+                355,
+                1878,
+                355,
+                1913,
+                190,
+                1913
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.116,
+                0.828,
+                0.49,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                191,
+                1936,
+                810,
+                1936,
+                810,
+                2156,
+                191,
+                2156
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.086,
+                0.885,
+                0.14
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                201,
+                1463,
+                201,
+                1463,
+                327,
+                845,
+                327
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.151,
+                0.885,
+                0.218
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                353,
+                1463,
+                353,
+                1463,
+                509,
+                845,
+                509
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.229,
+                0.885,
+                0.27
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                535,
+                1463,
+                535,
+                1463,
+                631,
+                845,
+                631
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.281,
+                0.885,
+                0.348
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                657,
+                1463,
+                657,
+                1463,
+                813,
+                845,
+                813
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.359,
+                0.885,
+                0.439
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                839,
+                1463,
+                839,
+                1463,
+                1026,
+                845,
+                1026
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.45,
+                0.885,
+                0.543
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1052,
+                1463,
+                1052,
+                1463,
+                1270,
+                845,
+                1270
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.556,
+                0.885,
+                0.622
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1300,
+                1463,
+                1300,
+                1463,
+                1454,
+                845,
+                1454
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.633,
+                0.885,
+                0.687
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1480,
+                1463,
+                1480,
+                1463,
+                1606,
+                845,
+                1606
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.699,
+                0.885,
+                0.777
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1634,
+                1463,
+                1634,
+                1463,
+                1817,
+                845,
+                1817
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.79,
+                0.885,
+                0.856
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1847,
+                1463,
+                1847,
+                1463,
+                2002,
+                845,
+                2002
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.868,
+                0.885,
+                0.921
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                2030,
+                1463,
+                2030,
+                1463,
+                2154,
+                845,
+                2154
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.511,
+                0.086,
+                0.885,
+                0.921
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.943,
+                0.505,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2205,
+                835,
+                2205,
+                835,
+                2231,
+                817,
+                2231
+            ]
+        }
+    ],
+    [
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.152
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                201,
+                805,
+                201,
+                805,
+                355,
+                193,
+                355
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.163,
+                0.487,
+                0.228
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                381,
+                805,
+                381,
+                805,
+                533,
+                193,
+                533
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.24,
+                0.487,
+                0.306
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                561,
+                805,
+                561,
+                805,
+                715,
+                193,
+                715
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.317,
+                0.487,
+                0.37
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                741,
+                805,
+                741,
+                805,
+                865,
+                193,
+                865
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.381,
+                0.487,
+                0.433
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                891,
+                805,
+                891,
+                805,
+                1012,
+                193,
+                1012
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.444,
+                0.487,
+                0.498
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1038,
+                805,
+                1038,
+                805,
+                1164,
+                193,
+                1164
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.508,
+                0.487,
+                0.587
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1188,
+                805,
+                1188,
+                805,
+                1372,
+                193,
+                1372
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.598,
+                0.487,
+                0.676
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1398,
+                805,
+                1398,
+                805,
+                1581,
+                193,
+                1581
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.687,
+                0.487,
+                0.793
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1606,
+                805,
+                1606,
+                805,
+                1854,
+                193,
+                1854
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.804,
+                0.487,
+                0.856
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1880,
+                805,
+                1880,
+                805,
+                2002,
+                193,
+                2002
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.867,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                2027,
+                805,
+                2027,
+                805,
+                2151,
+                193,
+                2151
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.086,
+                0.882,
+                0.138
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                201,
+                1458,
+                201,
+                1458,
+                322,
+                848,
+                322
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.152,
+                0.882,
+                0.217
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                355,
+                1458,
+                355,
+                1458,
+                507,
+                846,
+                507
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.23,
+                0.882,
+                0.32
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                537,
+                1458,
+                537,
+                1458,
+                748,
+                846,
+                748
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.334,
+                0.882,
+                0.424
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                781,
+                1458,
+                781,
+                1458,
+                991,
+                846,
+                991
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.438,
+                0.882,
+                0.503
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1024,
+                1458,
+                1024,
+                1458,
+                1176,
+                846,
+                1176
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.516,
+                0.882,
+                0.582
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1206,
+                1458,
+                1206,
+                1458,
+                1361,
+                846,
+                1361
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.594,
+                0.882,
+                0.687
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1389,
+                1458,
+                1389,
+                1458,
+                1606,
+                846,
+                1606
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.699,
+                0.882,
+                0.763
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1634,
+                1458,
+                1634,
+                1458,
+                1784,
+                846,
+                1784
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.776,
+                0.882,
+                0.843
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1815,
+                1458,
+                1815,
+                1458,
+                1971,
+                846,
+                1971
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.855,
+                0.882,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1999,
+                1458,
+                1999,
+                1458,
+                2151,
+                846,
+                2151
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.512,
+                0.086,
+                0.882,
+                0.92
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.943,
+                0.51,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2205,
+                843,
+                2205,
+                843,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.151
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                201,
+                805,
+                201,
+                805,
+                353,
+                193,
+                353
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.165,
+                0.487,
+                0.217
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                385,
+                805,
+                385,
+                805,
+                507,
+                193,
+                507
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.23,
+                0.487,
+                0.295
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                537,
+                805,
+                537,
+                805,
+                690,
+                193,
+                690
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.308,
+                0.487,
+                0.373
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                720,
+                805,
+                720,
+                805,
+                872,
+                193,
+                872
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.386,
+                0.487,
+                0.438
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                902,
+                805,
+                902,
+                805,
+                1024,
+                193,
+                1024
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.451,
+                0.487,
+                0.504
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1054,
+                805,
+                1054,
+                805,
+                1178,
+                193,
+                1178
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.516,
+                0.487,
+                0.556
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1206,
+                805,
+                1206,
+                805,
+                1300,
+                193,
+                1300
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.568,
+                0.487,
+                0.62
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1328,
+                805,
+                1328,
+                805,
+                1450,
+                193,
+                1450
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.633,
+                0.487,
+                0.699
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1480,
+                805,
+                1480,
+                805,
+                1634,
+                193,
+                1634
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.712,
+                0.487,
+                0.763
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1665,
+                805,
+                1665,
+                805,
+                1784,
+                193,
+                1784
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.777,
+                0.487,
+                0.841
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1817,
+                805,
+                1817,
+                805,
+                1967,
+                193,
+                1967
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.855,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1999,
+                805,
+                1999,
+                805,
+                2151,
+                193,
+                2151
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.086,
+                0.882,
+                0.164
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                201,
+                1458,
+                201,
+                1458,
+                383,
+                846,
+                383
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.179,
+                0.882,
+                0.244
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                418,
+                1458,
+                418,
+                1458,
+                570,
+                846,
+                570
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.258,
+                0.882,
+                0.298
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                603,
+                1458,
+                603,
+                1458,
+                697,
+                846,
+                697
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.312,
+                0.882,
+                0.402
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                729,
+                1458,
+                729,
+                1458,
+                940,
+                846,
+                940
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.417,
+                0.882,
+                0.483
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                975,
+                1458,
+                975,
+                1458,
+                1129,
+                846,
+                1129
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.497,
+                0.882,
+                0.575
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1162,
+                1458,
+                1162,
+                1458,
+                1344,
+                846,
+                1344
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.59,
+                0.882,
+                0.641
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1380,
+                1458,
+                1380,
+                1458,
+                1499,
+                846,
+                1499
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.656,
+                0.882,
+                0.708
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1534,
+                1458,
+                1534,
+                1458,
+                1656,
+                846,
+                1656
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.722,
+                0.882,
+                0.775
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1688,
+                1458,
+                1688,
+                1458,
+                1812,
+                846,
+                1812
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.789,
+                0.882,
+                0.854
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1845,
+                1458,
+                1845,
+                1458,
+                1997,
+                846,
+                1997
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.868,
+                0.882,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                2030,
+                1458,
+                2030,
+                1458,
+                2151,
+                846,
+                2151
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.512,
+                0.086,
+                0.882,
+                0.92
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.943,
+                0.508,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2205,
+                840,
+                2205,
+                840,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.139
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                201,
+                805,
+                201,
+                805,
+                325,
+                193,
+                325
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.15,
+                0.487,
+                0.229
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                350,
+                805,
+                350,
+                805,
+                535,
+                193,
+                535
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.24,
+                0.487,
+                0.319
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                561,
+                805,
+                561,
+                805,
+                746,
+                193,
+                746
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.33,
+                0.487,
+                0.383
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                771,
+                805,
+                771,
+                805,
+                895,
+                193,
+                895
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.394,
+                0.487,
+                0.459
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                921,
+                805,
+                921,
+                805,
+                1073,
+                193,
+                1073
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.47,
+                0.487,
+                0.535
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1099,
+                805,
+                1099,
+                805,
+                1251,
+                193,
+                1251
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.547,
+                0.487,
+                0.587
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1279,
+                805,
+                1279,
+                805,
+                1372,
+                193,
+                1372
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.598,
+                0.487,
+                0.662
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1398,
+                805,
+                1398,
+                805,
+                1548,
+                193,
+                1548
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.675,
+                0.487,
+                0.741
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1578,
+                805,
+                1578,
+                805,
+                1733,
+                193,
+                1733
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.752,
+                0.487,
+                0.843
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1758,
+                805,
+                1758,
+                805,
+                1971,
+                193,
+                1971
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.855,
+                0.487,
+                0.921
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1999,
+                805,
+                1999,
+                805,
+                2154,
+                193,
+                2154
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.921
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.086,
+                0.882,
+                0.139
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                201,
+                1458,
+                201,
+                1458,
+                325,
+                845,
+                325
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.149,
+                0.882,
+                0.202
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                348,
+                1458,
+                348,
+                1458,
+                472,
+                846,
+                472
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.212,
+                0.882,
+                0.277
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                495,
+                1458,
+                495,
+                1458,
+                647,
+                846,
+                647
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.287,
+                0.882,
+                0.353
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                671,
+                1458,
+                671,
+                1458,
+                825,
+                846,
+                825
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.364,
+                0.882,
+                0.428
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                851,
+                1458,
+                851,
+                1458,
+                1001,
+                846,
+                1001
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.439,
+                0.882,
+                0.504
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1026,
+                1458,
+                1026,
+                1458,
+                1178,
+                846,
+                1178
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.515,
+                0.882,
+                0.593
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1204,
+                1458,
+                1204,
+                1458,
+                1387,
+                846,
+                1387
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.604,
+                0.882,
+                0.669
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1412,
+                1458,
+                1412,
+                1458,
+                1564,
+                846,
+                1564
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.679,
+                0.882,
+                0.745
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1588,
+                1458,
+                1588,
+                1458,
+                1742,
+                846,
+                1742
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.756,
+                0.882,
+                0.795
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1768,
+                1458,
+                1768,
+                1458,
+                1859,
+                846,
+                1859
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.805,
+                0.882,
+                0.871
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1882,
+                1458,
+                1882,
+                1458,
+                2037,
+                846,
+                2037
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.881,
+                0.882,
+                0.921
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                2060,
+                1458,
+                2060,
+                1458,
+                2154,
+                846,
+                2154
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.511,
+                0.086,
+                0.882,
+                0.921
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.943,
+                0.509,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2205,
+                841,
+                2205,
+                841,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.135,
+                0.086,
+                0.486,
+                0.113
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                223,
+                201,
+                803,
+                201,
+                803,
+                264,
+                223,
+                264
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.124,
+                0.487,
+                0.177
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                290,
+                805,
+                290,
+                805,
+                414,
+                193,
+                414
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.188,
+                0.487,
+                0.306
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                439,
+                805,
+                439,
+                805,
+                715,
+                193,
+                715
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.317,
+                0.487,
+                0.396
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                741,
+                805,
+                741,
+                805,
+                926,
+                193,
+                926
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.407,
+                0.487,
+                0.485
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                951,
+                805,
+                951,
+                805,
+                1134,
+                193,
+                1134
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.496,
+                0.487,
+                0.561
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1160,
+                805,
+                1160,
+                805,
+                1312,
+                193,
+                1312
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.574,
+                0.487,
+                0.626
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1342,
+                805,
+                1342,
+                805,
+                1464,
+                193,
+                1464
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.637,
+                0.487,
+                0.702
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1489,
+                805,
+                1489,
+                805,
+                1641,
+                193,
+                1641
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.714,
+                0.487,
+                0.806
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1670,
+                805,
+                1670,
+                805,
+                1885,
+                193,
+                1885
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.817,
+                0.487,
+                0.87
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1910,
+                805,
+                1910,
+                805,
+                2034,
+                193,
+                2034
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.881,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                2060,
+                805,
+                2060,
+                805,
+                2151,
+                193,
+                2151
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.53,
+                0.086,
+                0.882,
+                0.126
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                876,
+                201,
+                1458,
+                201,
+                1458,
+                294,
+                876,
+                294
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.136,
+                0.882,
+                0.201
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                318,
+                1458,
+                318,
+                1458,
+                470,
+                846,
+                470
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.212,
+                0.882,
+                0.278
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                495,
+                1458,
+                495,
+                1458,
+                650,
+                846,
+                650
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.287,
+                0.882,
+                0.367
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                671,
+                1458,
+                671,
+                1458,
+                858,
+                846,
+                858
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.377,
+                0.882,
+                0.441
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                881,
+                1458,
+                881,
+                1458,
+                1031,
+                846,
+                1031
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.452,
+                0.882,
+                0.505
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1057,
+                1458,
+                1057,
+                1458,
+                1181,
+                846,
+                1181
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.515,
+                0.882,
+                0.568
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1204,
+                1458,
+                1204,
+                1458,
+                1328,
+                846,
+                1328
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.578,
+                0.882,
+                0.618
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1351,
+                1458,
+                1351,
+                1458,
+                1445,
+                846,
+                1445
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.627,
+                0.882,
+                0.693
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1466,
+                1458,
+                1466,
+                1458,
+                1620,
+                846,
+                1620
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.703,
+                0.882,
+                0.769
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1644,
+                1458,
+                1644,
+                1458,
+                1798,
+                846,
+                1798
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.779,
+                0.882,
+                0.844
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1822,
+                1458,
+                1822,
+                1458,
+                1974,
+                846,
+                1974
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.855,
+                0.882,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1999,
+                1458,
+                1999,
+                1458,
+                2151,
+                846,
+                2151
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.512,
+                0.086,
+                0.882,
+                0.92
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.943,
+                0.509,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2205,
+                841,
+                2205,
+                841,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.138
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                201,
+                805,
+                201,
+                805,
+                322,
+                193,
+                322
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.149,
+                0.487,
+                0.214
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                348,
+                805,
+                348,
+                805,
+                500,
+                193,
+                500
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.224,
+                0.487,
+                0.277
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                523,
+                805,
+                523,
+                805,
+                647,
+                193,
+                647
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.287,
+                0.487,
+                0.364
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                671,
+                805,
+                671,
+                805,
+                851,
+                193,
+                851
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.376,
+                0.487,
+                0.454
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                879,
+                805,
+                879,
+                805,
+                1061,
+                193,
+                1061
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.464,
+                0.487,
+                0.541
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1085,
+                805,
+                1085,
+                805,
+                1265,
+                193,
+                1265
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.552,
+                0.487,
+                0.617
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1291,
+                805,
+                1291,
+                805,
+                1443,
+                193,
+                1443
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.628,
+                0.487,
+                0.706
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1468,
+                805,
+                1468,
+                805,
+                1651,
+                193,
+                1651
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.716,
+                0.487,
+                0.768
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1674,
+                805,
+                1674,
+                805,
+                1796,
+                193,
+                1796
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.779,
+                0.487,
+                0.844
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1822,
+                805,
+                1822,
+                805,
+                1974,
+                193,
+                1974
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.117,
+                0.855,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                193,
+                1999,
+                805,
+                1999,
+                805,
+                2151,
+                193,
+                2151
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.117,
+                0.086,
+                0.487,
+                0.92
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.086,
+                0.882,
+                0.165
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                201,
+                1458,
+                201,
+                1458,
+                385,
+                846,
+                385
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.175,
+                0.882,
+                0.267
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                409,
+                1458,
+                409,
+                1458,
+                624,
+                846,
+                624
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.277,
+                0.882,
+                0.354
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                647,
+                1458,
+                647,
+                1458,
+                828,
+                846,
+                828
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.366,
+                0.882,
+                0.431
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                856,
+                1458,
+                856,
+                1458,
+                1008,
+                846,
+                1008
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.441,
+                0.882,
+                0.493
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1031,
+                1458,
+                1031,
+                1458,
+                1153,
+                846,
+                1153
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.504,
+                0.882,
+                0.557
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1178,
+                1458,
+                1178,
+                1458,
+                1302,
+                846,
+                1302
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.567,
+                0.882,
+                0.633
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1326,
+                1458,
+                1326,
+                1458,
+                1480,
+                846,
+                1480
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.512,
+                0.643,
+                0.882,
+                0.708
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1503,
+                1458,
+                1503,
+                1458,
+                1656,
+                846,
+                1656
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.512,
+                0.086,
+                0.882,
+                0.708
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.943,
+                0.509,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2205,
+                841,
+                2205,
+                841,
+                2231,
+                810,
+                2231
+            ]
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.085,
+                0.493,
+                0.278
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                198,
+                815,
+                198,
+                815,
+                650,
+                186,
+                650
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.114,
+                0.292,
+                0.363,
+                0.306
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                682,
+                600,
+                682,
+                600,
+                715,
+                188,
+                715
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.318,
+                0.49,
+                0.51
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                743,
+                810,
+                743,
+                810,
+                1192,
+                186,
+                1192
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.512,
+                0.49,
+                0.851
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1197,
+                810,
+                1197,
+                810,
+                1990,
+                186,
+                1990
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.114,
+                0.863,
+                0.319,
+                0.877
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                2018,
+                527,
+                2018,
+                527,
+                2051,
+                188,
+                2051
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.89,
+                0.49,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                2081,
+                810,
+                2081,
+                810,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.085,
+                0.885,
+                0.214
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                198,
+                1463,
+                198,
+                1463,
+                500,
+                840,
+                500
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.509,
+                0.224,
+                0.722,
+                0.237
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                523,
+                1194,
+                523,
+                1194,
+                554,
+                841,
+                554
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.244,
+                0.885,
+                0.372
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                570,
+                1463,
+                570,
+                1463,
+                870,
+                840,
+                870
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.373,
+                0.884,
+                0.403
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                872,
+                1462,
+                872,
+                1462,
+                942,
+                840,
+                942
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.515,
+                0.407,
+                0.882,
+                0.486
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} \\mathrm {T o p -} K \\mathrm {A c c u r a c y} = \\frac {1}{| Q |} \\sum_ {q \\in Q} \\\\ \\mathbf {1} \\left(\\operatorname {R e l} (q) \\cap \\operatorname {R e t} _ {K} (q) \\neq \\varnothing\\right), \\tag {5} \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.487,
+                0.884,
+                0.599
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1139,
+                1462,
+                1139,
+                1462,
+                1401,
+                840,
+                1401
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.6,
+                0.884,
+                0.647
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1403,
+                1462,
+                1403,
+                1462,
+                1513,
+                840,
+                1513
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.522,
+                0.652,
+                0.883,
+                0.692
+            ],
+            "angle": 0,
+            "content": "\\[\n\\operatorname {R e c a l l} @ K = \\frac {1}{| Q |} \\sum_ {q \\in Q} \\frac {\\left| \\operatorname {R e l} (q) \\cap \\operatorname {R e t} _ {K} (q) \\right|}{\\left| \\operatorname {R e l} (q) \\right|}. \\tag {6}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.697,
+                0.882,
+                0.743
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1630,
+                1458,
+                1630,
+                1458,
+                1737,
+                840,
+                1737
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.52,
+                0.746,
+                0.883,
+                0.799
+            ],
+            "angle": 0,
+            "content": "\\[\n\\text {P r e c i s i o n} @ K = \\frac {1}{| Q |} \\sum_ {q \\in Q} \\frac {\\left| \\operatorname {R e l} (q) \\cap \\operatorname {R e t} _ {K} (q) \\right|}{K}. \\tag {7}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.8,
+                0.884,
+                0.88
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1871,
+                1462,
+                1871,
+                1462,
+                2058,
+                840,
+                2058
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.529,
+                0.885,
+                0.883,
+                0.924
+            ],
+            "angle": 0,
+            "content": "\\[\nF 1 @ K = \\frac {1}{| Q |} \\sum_ {q \\in Q} 2 \\cdot \\frac {\\Pr_ {K} (q) \\cdot \\operatorname {R e} _ {K} (q)}{\\Pr_ {K} (q) + \\operatorname {R e} _ {K} (q)}, \\tag {8}\n\\]"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.942,
+                0.509,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2203,
+                841,
+                2203,
+                841,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.12,
+                0.081,
+                0.885,
+                0.555
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Method</td><td>Metric</td><td>DocVQA</td><td>SlideVQA</td><td>InfoVQA</td><td>MMLongBench-Doc</td></tr><tr><td colspan=\"6\">Retrieval Evaluation</td></tr><tr><td>DSE (Ma et al., 2024a)</td><td>R@10</td><td>-</td><td>84.6</td><td>-</td><td>-</td></tr><tr><td>VisRAG (Yu et al., 2024)</td><td>R@10</td><td>91.20</td><td>97.39</td><td>97.08</td><td>-</td></tr><tr><td>CMRAG (Chen et al., 2025)</td><td>R@10</td><td>-</td><td>-</td><td>-</td><td>64.12</td></tr><tr><td>VisRAG (Yu et al., 2024)</td><td>MRR@10</td><td>75.37</td><td>91.85</td><td>86.37</td><td>-</td></tr><tr><td>CMRAG (Chen et al., 2025)</td><td>MRR@10</td><td>-</td><td>-</td><td>-</td><td>47.64</td></tr><tr><td>ColPali (Faysse et al., 2024)</td><td>nDCG@5</td><td>54.4</td><td>-</td><td>81.8</td><td>-</td></tr><tr><td>ColQwen2 (Faysse et al., 2024)</td><td>nDCG@5</td><td>61.5</td><td>-</td><td>89.7</td><td>-</td></tr><tr><td>ColQwen2.5 (Faysse et al., 2024)</td><td>nDCG@5</td><td>63.6</td><td>-</td><td>92.5</td><td>-</td></tr><tr><td>VDocRAG (Tanaka et al., 2025)</td><td>nDCG@5</td><td>-</td><td>77.3</td><td>72.9</td><td>-</td></tr><tr><td>Light-ColPali (Ma et al., 2025)</td><td>nDCG@5</td><td>53.4</td><td>91.7</td><td>82.8</td><td>73.3</td></tr><tr><td>Light-ColQwen2 (Ma et al., 2025)</td><td>nDCG@5</td><td>56.6</td><td>92.9</td><td>89.5</td><td>77.0</td></tr><tr><td>DSE (Ma et al., 2024a)</td><td>nDCG@10</td><td>-</td><td>75.3</td><td>-</td><td>-</td></tr><tr><td>CMRAG (Chen et al., 2025)</td><td>nDCG@10</td><td>-</td><td>-</td><td>-</td><td>52.10</td></tr><tr><td colspan=\"6\">Generation Evaluation</td></tr><tr><td>VisRAG (Yu et al., 2024)</td><td>EM</td><td>67.17</td><td>60.97</td><td>66.43</td><td>-</td></tr><tr><td>FRAG (Huang et al., 2025)</td><td>EM</td><td>-</td><td>72.7</td><td>-</td><td>-</td></tr><tr><td>SV-RAG (Chen et al., 2024b)</td><td>PNLS</td><td>87.0</td><td>98.8</td><td>-</td><td>84.8</td></tr><tr><td>CRAEM (Zhang et al., 2024a)</td><td>ANLS</td><td>79.4</td><td>-</td><td>53.6</td><td>-</td></tr><tr><td>M3DocRAG (Cho et al., 2024a)</td><td>ANLS</td><td>84.4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>VisDoMRAG (Suri et al., 2025)</td><td>ANLS</td><td>-</td><td>67.2</td><td>-</td><td>-</td></tr><tr><td>VDocRAG (Tanaka et al., 2025)</td><td>ANLS</td><td>-</td><td>56.4</td><td>64.6</td><td>-</td></tr><tr><td>FRAG (Huang et al., 2025)</td><td>ANLS</td><td>87.4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>ReDocRAG (López et al., 2025)</td><td>ANLS</td><td>73.7</td><td>-</td><td>63.6</td><td>-</td></tr><tr><td>M3DocRAG (Cho et al., 2024a)</td><td>G-Acc</td><td>-</td><td>-</td><td>-</td><td>21.0</td></tr><tr><td>FRAG (Huang et al., 2025)</td><td>G-Acc</td><td>80.5</td><td>-</td><td>-</td><td>37.9</td></tr><tr><td>VRAG-RL (Wang et al., 2025c)</td><td>G-Acc</td><td>-</td><td>69.3</td><td>-</td><td>24.9</td></tr><tr><td>SimpleDoc (Jain et al., 2025)</td><td>G-Acc</td><td>-</td><td>-</td><td>-</td><td>60.58</td></tr><tr><td>MMRAG-DocQA (Gong et al., 2025)</td><td>G-Acc</td><td>-</td><td>-</td><td>-</td><td>52.3</td></tr><tr><td>CMRAG (Chen et al., 2025)</td><td>G-Acc</td><td>-</td><td>-</td><td>-</td><td>43.25</td></tr><tr><td>MoLoRAG (Wu et al., 2025)</td><td>G-Acc</td><td>-</td><td>-</td><td>-</td><td>41.01</td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.114,
+                0.565,
+                0.883,
+                0.595
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1321,
+                1460,
+                1321,
+                1460,
+                1391,
+                188,
+                1391
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.619,
+                0.486,
+                0.65
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1447,
+                803,
+                1447,
+                803,
+                1520,
+                188,
+                1520
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.652,
+                0.488,
+                0.747
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1525,
+                807,
+                1525,
+                807,
+                1747,
+                188,
+                1747
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.132,
+                0.757,
+                0.488,
+                0.8
+            ],
+            "angle": 0,
+            "content": "\\[\n\\operatorname {M R R} @ K = \\frac {1}{| Q |} \\sum_ {q \\in Q} \\frac {\\mathbf {1} \\left(\\operatorname {r a n k} _ {K} (q) \\leq K\\right)}{\\operatorname {r a n k} _ {K} (q)}, \\tag {9}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.809,
+                0.489,
+                0.873
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1892,
+                808,
+                1892,
+                808,
+                2041,
+                188,
+                2041
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.874,
+                0.489,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                2044,
+                808,
+                2044,
+                808,
+                2156,
+                188,
+                2156
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.62,
+                0.881,
+                0.636
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                1450,
+                1457,
+                1450,
+                1457,
+                1487,
+                841,
+                1487
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.538,
+                0.642,
+                0.884,
+                0.682
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {n D C G} @ K = \\frac {1}{| Q |} \\sum_ {q \\in Q} \\frac {\\mathrm {D C G} @ K (q)}{\\mathrm {I D C G} @ K (q)}, \\tag {10}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.691,
+                0.56,
+                0.704
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                1616,
+                926,
+                1616,
+                926,
+                1646,
+                843,
+                1646
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.571,
+                0.712,
+                0.883,
+                0.755
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {D C G} @ K (q) = \\sum_ {i = 1} ^ {K} \\frac {2 ^ {\\operatorname {r e l} _ {q , i}} - 1}{\\log_ {2} (i + 1)}. \\tag {11}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.763,
+                0.884,
+                0.858
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                1784,
+                1462,
+                1784,
+                1462,
+                2006,
+                841,
+                2006
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.509,
+                0.87,
+                0.738,
+                0.883
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                2034,
+                1220,
+                2034,
+                1220,
+                2065,
+                841,
+                2065
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.89,
+                0.884,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                2081,
+                1462,
+                2081,
+                1462,
+                2156,
+                840,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.942,
+                0.511,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2203,
+                845,
+                2203,
+                845,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.085,
+                0.492,
+                0.552
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                198,
+                813,
+                198,
+                813,
+                1291,
+                186,
+                1291
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.56,
+                0.49,
+                0.736
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1309,
+                810,
+                1309,
+                810,
+                1721,
+                186,
+                1721
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.145,
+                0.744,
+                0.488,
+                0.787
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {B L E U} = \\mathrm {B P} \\cdot \\exp \\left(\\sum_ {n = 1} ^ {N} w _ {n} \\log p _ {n}\\right), \\tag {12}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.797,
+                0.489,
+                0.846
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1864,
+                808,
+                1864,
+                808,
+                1978,
+                186,
+                1978
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.186,
+                0.853,
+                0.488,
+                0.881
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {B P} = \\exp \\left(\\min  \\left(0, 1 - \\frac {r}{c}\\right)\\right), \\tag {13}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.89,
+                0.489,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                2081,
+                808,
+                2081,
+                808,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.085,
+                0.885,
+                0.164
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                198,
+                1463,
+                198,
+                1463,
+                383,
+                841,
+                383
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.522,
+                0.173,
+                0.884,
+                0.21
+            ],
+            "angle": 0,
+            "content": "\\[\n\\text {R O U G E -} N = \\frac {\\sum_ {\\text {r e f}} \\sum_ {n \\in \\text {r e f}} \\min  \\left(S _ {n} , R _ {n}\\right)}{\\sum_ {\\text {r e f}} \\sum_ {n \\in \\text {r e f}} R _ {n}}, \\tag {14}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.218,
+                0.884,
+                0.315
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                509,
+                1462,
+                509,
+                1462,
+                736,
+                840,
+                736
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.596,
+                0.324,
+                0.884,
+                0.358
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {R O U G E} - \\mathrm {L} = \\frac {\\mathrm {L C S} (S , R)}{| R |}, \\tag {15}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.367,
+                0.883,
+                0.429
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                858,
+                1460,
+                858,
+                1460,
+                1003,
+                840,
+                1003
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.431,
+                0.884,
+                0.542
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1008,
+                1462,
+                1008,
+                1462,
+                1267,
+                840,
+                1267
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.593,
+                0.555,
+                0.883,
+                0.571
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {M E T E O R} = F _ {\\alpha} \\cdot (1 - P), \\tag {16}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.583,
+                0.882,
+                0.616
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1363,
+                1458,
+                1363,
+                1458,
+                1440,
+                840,
+                1440
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.574,
+                0.625,
+                0.883,
+                0.659
+            ],
+            "angle": 0,
+            "content": "\\[\nF _ {\\alpha} = \\frac {P _ {r e c} \\cdot P _ {p r e}}{\\alpha \\cdot P _ {p r e} + (1 - \\alpha) \\cdot P _ {r e c}}, \\tag {17}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.668,
+                0.882,
+                0.696
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1562,
+                1458,
+                1562,
+                1458,
+                1627,
+                840,
+                1627
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.634,
+                0.696,
+                0.882,
+                0.731
+            ],
+            "angle": 0,
+            "content": "\\[\nP = \\gamma \\left(\\frac {c h}{m}\\right) ^ {\\beta}, \\tag {18}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.737,
+                0.884,
+                0.801
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1723,
+                1462,
+                1723,
+                1462,
+                1873,
+                840,
+                1873
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.809,
+                0.884,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1892,
+                1462,
+                1892,
+                1462,
+                2156,
+                840,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.942,
+                0.51,
+                0.954
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2203,
+                843,
+                2203,
+                843,
+                2231,
+                810,
+                2231
+            ]
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.085,
+                0.488,
+                0.149
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                198,
+                807,
+                198,
+                807,
+                348,
+                188,
+                348
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.201,
+                0.158,
+                0.488,
+                0.202
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {E M} = \\frac {1}{N} \\sum_ {i = 1} ^ {N} \\mathbf {1} \\left(o _ {i} \\in A _ {i}\\right), \\tag {19}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.212,
+                0.487,
+                0.258
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                495,
+                805,
+                495,
+                805,
+                603,
+                186,
+                603
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.26,
+                0.489,
+                0.371
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                608,
+                808,
+                608,
+                808,
+                867,
+                186,
+                867
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.147,
+                0.397,
+                0.488,
+                0.433
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {N L S} \\left(a _ {i j}, o _ {i}\\right) = 1 - \\frac {\\mathrm {L D} \\left(a _ {i j} , o _ {i}\\right)}{\\operatorname* {m a x} \\left(\\left| a _ {i j} \\right| , \\left| o _ {i} \\right|\\right)}, \\tag {20}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.442,
+                0.49,
+                0.537
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1033,
+                810,
+                1033,
+                810,
+                1256,
+                186,
+                1256
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.114,
+                0.547,
+                0.492,
+                0.643
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} s \\left(a _ {i j}, o _ {i}\\right) = \\left\\{ \\begin{array}{l l} \\mathrm {N L S} \\left(a _ {i j}, o _ {i}\\right), & \\text {i f N L S} \\left(a _ {i j}, o _ {i}\\right) \\geq \\tau , \\\\ 0, & \\text {o t h e r w i s e}, \\end{array} \\right. (21) \\\\ \\mathrm {A N L S} = \\frac {1}{N} \\sum_ {i = 1} ^ {N} \\max  _ {j} s \\left(a _ {i j}, o _ {i}\\right). (22) \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.648,
+                0.49,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                186,
+                1515,
+                810,
+                1515,
+                810,
+                2156,
+                186,
+                2156
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.085,
+                0.674,
+                0.101
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                198,
+                1114,
+                198,
+                1114,
+                236,
+                843,
+                236
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.536,
+                0.112,
+                0.883,
+                0.149
+            ],
+            "angle": 0,
+            "content": "\\[\n\\mathrm {P N L S} (a _ {i j}, o _ {i}) = 1 - \\frac {\\mathrm {L D} ^ {*} (a _ {i j} , o _ {i})}{\\operatorname* {m a x} (| a _ {i j} | , | o _ {i} ^ {\\prime} |)}, \\tag {23}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.16,
+                0.882,
+                0.192
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                841,
+                374,
+                1458,
+                374,
+                1458,
+                449,
+                841,
+                449
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.202,
+                0.885,
+                0.556
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                472,
+                1463,
+                472,
+                1463,
+                1300,
+                840,
+                1300
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.569,
+                0.669,
+                0.585
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                1330,
+                1106,
+                1330,
+                1106,
+                1368,
+                843,
+                1368
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.596,
+                0.884,
+                0.789
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1394,
+                1462,
+                1394,
+                1462,
+                1845,
+                840,
+                1845
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.537,
+                0.801,
+                0.883,
+                0.845
+            ],
+            "angle": 0,
+            "content": "\\[\n\\operatorname {S i m} (q, d) = \\sum_ {t = 1} ^ {L _ {q}} \\max  _ {1 \\leq m \\leq L _ {d}} \\left\\langle \\mathbf {h} _ {q, t}, \\mathbf {h} _ {d, m} \\right\\rangle , \\tag {24}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.857,
+                0.885,
+                0.922
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                2004,
+                1463,
+                2004,
+                1463,
+                2156,
+                840,
+                2156
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.942,
+                0.51,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2203,
+                843,
+                2203,
+                843,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.085,
+                0.49,
+                0.228
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                198,
+                810,
+                198,
+                810,
+                533,
+                188,
+                533
+            ]
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.134,
+                0.239,
+                0.488,
+                0.327
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} \\mathcal {L} = - \\frac {1}{B} \\sum_ {i = 1} ^ {B} \\log \\left(\\frac {\\exp \\left(p _ {i}\\right)}{\\exp \\left(p _ {i}\\right) + \\exp \\left(n _ {i}\\right)}\\right) \\tag {25} \\\\ = \\frac {1}{B} \\sum_ {i = 1} ^ {B} \\log \\left(1 + \\exp \\left(n _ {i} - p _ {i}\\right)\\right), \\\\ \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.338,
+                0.486,
+                0.369
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                790,
+                803,
+                790,
+                803,
+                863,
+                188,
+                863
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.37,
+                0.49,
+                0.449
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                865,
+                810,
+                865,
+                810,
+                1050,
+                188,
+                1050
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.462,
+                0.396,
+                0.479
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                190,
+                1080,
+                654,
+                1080,
+                654,
+                1120,
+                190,
+                1120
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.487,
+                0.49,
+                0.696
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1139,
+                810,
+                1139,
+                810,
+                1627,
+                188,
+                1627
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.942,
+                0.509,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                810,
+                2203,
+                841,
+                2203,
+                841,
+                2233,
+                810,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.118,
+                0.142,
+                0.879,
+                0.821
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Dataset</td><td>Features</td></tr><tr><td>PlotQA (Methani et al., 2020)</td><td>Bridges the gap to real-world plots with a large-scale dataset built from authentic charts and crowd-sourced questions, requiring complex reasoning and out-of-vocabulary answers beyond fixed vocabularies.</td></tr><tr><td>TabFQuAD (d&#x27;Hoffschmidt et al., 2020)</td><td>Evaluates TableQA models in realistic industry settings using a French table question-answering dataset enhanced with GPT-4V generated queries.</td></tr><tr><td>DocVQA (Mathew et al., 2021)</td><td>Highlights the gap between human and model performance on structured document understanding using a large-scale dataset from UCSF Industry collections.</td></tr><tr><td>VisualMRC (Tanaka et al., 2021)</td><td>Builds a visual machine reading comprehension dataset from multi-domain webpage documents to advance natural language understanding and generation from document images.</td></tr><tr><td>ChartQA (Masry et al., 2022)</td><td>Constructs a large-scale chart QA benchmark with human-written and generated questions to evaluate models on complex logical, arithmetic, and visual reasoning over charts.</td></tr><tr><td>InfoVQA (Mathew et al., 2022)</td><td>Benchmarks models on reasoning over layout, text, and visuals using a diverse info-graphic QA dataset highlighting the human-machine gap.</td></tr><tr><td>TAT-DQA (Zhu et al., 2022)</td><td>Samples financial reports with semi-structured tables and text to build a document QA dataset requiring discrete numerical reasoning, highlighting the gap between models and human experts.</td></tr><tr><td>ScienceQA (Saikh et al., 2022)</td><td>Introduces a multimodal benchmark of diverse science questions with annotated answers, lectures, and explanations to evaluate and enhance models&#x27; reasoning through chain-of-thought.</td></tr><tr><td>DUDE (Van Landeghem et al., 2023)</td><td>Creates a practical benchmark from multi-industry, multi-domain visually-rich documents to evaluate document AI on real-world, multi-task, and low-resource scenarios.</td></tr><tr><td>SlideVQA (Tanaka et al., 2023)</td><td>Builds a multi-image document QA dataset from slide decks to enable complex single-hop, multi-hop, and numerical reasoning, highlighting the gap between models and human performance.</td></tr><tr><td>ArXivQA (Li et al., 2024a)</td><td>Builds a scientific QA dataset from ArXiv papers to boost LVLMs&#x27; ability in interpreting abstract figures and improving mathematical reasoning.</td></tr><tr><td>MMLongBench-Doc (Ma et al., 2024b)</td><td>Constructs a long-context multimodal benchmark from lengthy PDFs with cross-page questions to evaluate LVLMs on document understanding.</td></tr><tr><td>PaperTab (Hui et al., 2024)</td><td>Extracts academic papers in PDF format for extractive, yes/no, and free-form QA.</td></tr><tr><td>FetaTab (Hui et al., 2024)</td><td>Gathers world knowledge documents in PDF and HTML format for free-form QA.</td></tr><tr><td>SPIQA (Pramanick et al., 2024)</td><td>Creates a large-scale QA dataset from scientific papers that integrates text with complex figures and tables to evaluate and advance multimodal understanding in research articles.</td></tr><tr><td>LongDocUrl (Deng et al., 2024)</td><td>Integrates long-document understanding, numerical reasoning, and cross-element locating into a large-scale benchmark to expose critical gaps in current LVLMs.</td></tr><tr><td>ViDoRe (Faysse et al., 2024)</td><td>Unifies academic tasks with diverse document types and practical tasks across multiple domains and languages to comprehensively evaluate multimodal document retrieval.</td></tr><tr><td>VisR-Bench (Chen et al., 2024b)</td><td>Selects diverse visually-rich documents with tables, charts, and diagrams, and generate verified QA pairs using GPT-4o to create a benchmark highlighting multimodal reasoning and quality assurance.</td></tr><tr><td>M3DoCVQA (Cho et al., 2024a)</td><td>Evaluates open-domain DocVQA with M3DoCVQA, a large multi-page PDF benchmark requiring multi-hop, multimodal reasoning across text and visual elements.</td></tr><tr><td>VisDoMBench (Suri et al., 2025)</td><td>Leverages multiple documents with diverse modalities such as tables, charts, and slides, requiring cross-document reasoning, modality fusion, and verifiable answers.</td></tr><tr><td>ViDoSeek (Wang et al., 2025b)</td><td>Unifies queries and large corpora of visually rich documents to enable complex reasoning beyond image-based QA, emphasizing multimodal retrieval, cross-document comprehension, and unique answer generation.</td></tr><tr><td>OpenDocVQA (Tanaka et al., 2025)</td><td>Combines diverse document types, formats, and modalities into a unified open-domain collection to train and evaluate retrieval and QA models on visually-rich documents.</td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.114,
+                0.83,
+                0.883,
+                0.86
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1941,
+                1460,
+                1941,
+                1460,
+                2011,
+                188,
+                2011
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.489,
+                0.943,
+                0.51,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                808,
+                2205,
+                843,
+                2205,
+                843,
+                2233,
+                808,
+                2233
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.118,
+                0.102,
+                0.879,
+                0.874
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Method</td><td>Key Contribution Summary</td></tr><tr><td>DSE (Ma et al., 2024a)</td><td>Encodes document screenshots with VLMs for retrieval, avoiding parsing and preserving full multimodal information.</td></tr><tr><td>ColPali (Faysse et al., 2024)</td><td>Embeds document page images into multi-vector representations with late interaction matching for efficient end-to-end retrieval.</td></tr><tr><td>ColQwen2 (Faysse et al., 2024)</td><td>Extends Qwen2-VL-2B to generate ColBERT-style multi-vector representations for complex text-image tasks, similar to ColPali.</td></tr><tr><td>CRAEM (Zhang et al., 2024a)</td><td>Combines coarse-to-fine retrieval with multi-page visual attention pooling, enabling effective integration of multimodal document information.</td></tr><tr><td>VisRAG (Yu et al., 2024)</td><td>Introduces a VLM-based RAG pipeline that embeds documents as images, preserving multimodal information and avoiding text-parsing loss.</td></tr><tr><td>SV-RAG (Chen et al., 2024b)</td><td>Introduces a framework where MLLMs act as retriever and generator with two adapters for retrieval and question answering.</td></tr><tr><td>M3DocRAG (Cho et al., 2024a)</td><td>Unifies retrieval and reasoning across text, charts, and figures, enabling flexible multi-hop DocVQA over single or multi-page documents.</td></tr><tr><td>VisDoMRAG (Suri et al., 2025)</td><td>Introduces consistency-constrained modality fusion for unified multi-step reasoning across visual and textual modalities in multimodal document QA.</td></tr><tr><td>GME (Zhang et al., 2025b)</td><td>Advances universal multimodal retrieval by leveraging a synthetic fused-modal training dataset and an MLLM-based dense retriever, achieving state-of-the-art performance on the new UMR Benchmark.</td></tr><tr><td>ViDoRAG (Wang et al., 2025b)</td><td>Leverages a multi-agent, Gaussian Mixture Model-based hybrid retrieval and iterative reasoning workflow for complex understanding of visually rich documents.</td></tr><tr><td>HM-RAG (Liu et al., 2025)</td><td>Decomposes queries hierarchically, retrieves from diverse modalities, and integrates results via consistency voting for robust multimodal reasoning.</td></tr><tr><td>VDocRAG (Tanaka et al., 2025)</td><td>Unifies visually-rich documents into image-based representations and design self-supervised pre-training tasks that compress visual information into dense tokens aligned with textual content for retrieval-augmented generation.</td></tr><tr><td>FRAG (Huang et al., 2025)</td><td>Selects relevant frames to improve multimodal model generation efficiency and performance.</td></tr><tr><td>MG-RAG (Xu et al., 2025b)</td><td>Integrates hierarchical encoding, modality-aware retrieval, and VLM-based candidate filtering to effectively handle visually-rich documents.</td></tr><tr><td>VRAG-RL (Wang et al., 2025c)</td><td>Introduces an RL framework that enables VLMs to reason effectively over documents from pages to fine-grained regions.</td></tr><tr><td>CoRe-MMRAG (Tian et al., 2025)</td><td>Reconciles inconsistencies between parametric and retrieved multimodal knowledge through a four-stage framework with specialized training for reliable answer generation.</td></tr><tr><td>Light-ColPali (Ma et al., 2025)</td><td>Reduces memory usage in Visualized Document Retrieval by applying optimized token merging, preserving over 94% effectiveness with as little as 2.8% of the original memory.</td></tr><tr><td>MM-R5 (Xu et al., 2025a)</td><td>Enhances multimodal document retrieval by integrating supervised fine-tuning and reinforcement learning with reasoning chains and task-specific rewards.</td></tr><tr><td>SimpleDoc (Jain et al., 2025)</td><td>Combines embedding-based retrieval with summary-based re-ranking, enabling efficient multi-page reasoning with a single VLM agent.</td></tr><tr><td>VisChunk (Tripathi et al., 2025)</td><td>Leverages multimodal cues to chunk documents while preserving structural and semantic coherence, enhancing downstream RAG performance.</td></tr><tr><td>DocVQA-RAP (Yu et al., 2025a)</td><td>Proposes a utility-driven retrieval method for VDQA that scores evidence by its predicted contribution to answer quality, reducing reliance on mere semantic relevance.</td></tr><tr><td>RL-QR (Cha et al., 2025)</td><td>Applies reinforcement learning-based query rewriting without annotations, tailoring rewriters to specific retrievers and boosting RAG performance across text and multimodal databases.</td></tr><tr><td>MMRAG-DocQA (Gong et al., 2025)</td><td>Leverages hierarchical indexing and multi-granularity retrieval to connect in-page and cross-page multi-modal evidence, enabling accurate reasoning over long, modality-rich documents.</td></tr><tr><td>Patho-AgenticRAG (Zhang et al., 2025a)</td><td>Enables joint text-image retrieval from pathology textbooks with agentic reasoning and multi-turn search, reducing hallucinations and improving diagnostic accuracy.</td></tr><tr><td>M2IO-R1 (Xiao et al., 2025a)</td><td>Enables multimodal inputs and outputs in RAG with an RL-based framework using an Inserter module for controllable image selection and placement.</td></tr><tr><td>mKG-RAG (Yuan et al., 2025)</td><td>Enhances RAG-based VQA by constructing multimodal knowledge graphs and employing dual-stage, question-aware retrieval to provide structured, modality-aligned knowledge for more accurate generation.</td></tr><tr><td>DB3Team-RAG (Xia et al., 2025)</td><td>Integrates domain-specific multimodal retrieval pipelines with unified LLM tuning and refusal training.</td></tr><tr><td>PREMIR (Choi et al., 2025)</td><td>Boosts multimodal retrieval by generating cross-modal pre-questions, enabling robust token-level matching across domains and languages.</td></tr><tr><td>ReDocRAG (López et al., 2025)</td><td>Enhances Document VQA by retrieving and reranking key evidence, achieving higher accuracy on multi-page datasets with reduced memory demand.</td></tr><tr><td>CMRAG (Chen et al., 2025)</td><td>Leverages co-modality representations of text and images for joint retrieval and generation, enabling more effective document visual question answering than text-only or vision-only RAG methods.</td></tr><tr><td>MoLoRAG (Wu et al., 2025)</td><td>Enhances multi-modal, multi-page DocQA by combining semantic and logic-aware retrieval through page-graph traversal, enabling LVLMs to capture overlooked logical connections for more accurate answers.</td></tr><tr><td>SERVAL (Nguyen et al., 2025)</td><td>Leverages vision-language models to generate textual descriptions of document images and embed them with a text encoder for scalable zero-shot visual document retrieval.</td></tr><tr><td>MetaEmbed (Xiao et al., 2025b)</td><td>Employs learnable Meta Tokens to generate compact multi-vector embeddings, enabling scalable test-time trade-offs between retrieval quality and efficiency.</td></tr><tr><td>DocPruner (Yan et al., 2025)</td><td>Adaptively prunes redundant patch-level embeddings based on intra-document attention, substantially reducing storage costs for multi-vector VDR while preserving retrieval effectiveness.</td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.208,
+                0.884,
+                0.789,
+                0.898
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                344,
+                2067,
+                1305,
+                2067,
+                1305,
+                2100,
+                344,
+                2100
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.489,
+                0.943,
+                0.508,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                808,
+                2205,
+                840,
+                2205,
+                840,
+                2233,
+                808,
+                2233
+            ]
+        }
+    ]
+]
