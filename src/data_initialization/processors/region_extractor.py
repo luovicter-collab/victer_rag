@@ -581,6 +581,8 @@ class JsonTitleExtractor:
     def extract_from_file(self, json_path: PathLike) -> DocTitleResult:
         """从单个 JSON 文件中提取 title 元素、识别 body 区域，并将 head/body/tail 写入 metadata。"""
         path = Path(json_path)
+        logger.info(f"开始处理文件: {path.name}")
+
         if not path.exists():
             raise TitleExtractorError(f"JSON 文件不存在：{path}")
 
@@ -654,6 +656,11 @@ class JsonTitleExtractor:
             elif self._is_body_start_title(label):
                 section_markers.append((seq, "body_start"))
 
+        # 添加日志：提取结果
+        logger.info(
+            f"[{path.name}] 提取到 {len(titles)} 个标题, {len(section_markers)} 个块标记, 共 {len(elements)} 个元素"
+        )
+
         logger.debug(
             "从 %s 提取到 %d 个标题、%d 个块开头标记",
             path.name,
@@ -670,10 +677,14 @@ class JsonTitleExtractor:
 
         if result.body_region:
             total_elements = len(elements)
+            logger.info(
+                f"[{path.name}] 正文区域: 序号 {result.body_region.start_seq} - {result.body_region.end_seq} (方法: {result.body_region.method})"
+            )
             division = self._region_division_from_body(
                 result.body_region, total_elements, elements=elements
             )
             self._write_region_division_to_json(path, data, division)
+            logger.info(f"文件处理完成: {path.name}")
 
         return result
 
